@@ -4,8 +4,8 @@
 Soy un(a) desarrollador(a) apasionado(a) por la tecnología, el código limpio y el aprendizaje continuo. Me interesa especialmente:
 
 - 🔧 Desarrollo web / backend y Frontend
-- 🌱 Aprendiendo actualmente: React, editor de codigo NeoVim
-- 💬 Pregúntame sobre: Creacion de APIres desde Express o flask.
+- 🌱 Aprendiendo actualmente: React, Typescript y MCPs.
+- 💬 Pregúntame sobre: Creacion de APIres desde Express con js o flask en py.
 - 🎯 Metas para este año: Seguir mejorando en mis conocimientios de Backend y tener una correcta implementación del Frontend con el fin de desempeñarme como Fullstack.
 
 ## 🛠️ Tecnologías y herramientas
