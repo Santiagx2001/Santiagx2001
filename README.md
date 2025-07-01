@@ -23,9 +23,8 @@ Soy un(a) desarrollador(a) apasionado(a) por la tecnología, el código limpio y
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiagx2001&layout=compact&theme=radical)
 
 ## 🔗 Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tu-usuario)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/tu-usuario)
-[![Portfolio](https://img.shields.io/badge/-Portafolio-000?style=flat&logo=github)](https://tu-portafolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/santiago-salazar-becerra-568561360/)
+<!--[![Portfolio](https://img.shields.io/badge/-Portafolio-000?style=flat&logo=github)](https://tu-portafolio.com)-->
 
 ---
 
