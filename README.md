@@ -3,8 +3,8 @@
 ## 🧑‍💻 Sobre mí
 Soy un(a) desarrollador(a) apasionado(a) por la tecnología, el código limpio y el aprendizaje continuo. Me interesa especialmente:
 
-- 🔧 Desarrollo web / móvil / backend
-- 🌱 Aprendiendo actualmente: React + Vite, Tailwind.
+- 🔧 Desarrollo web / backend y Frontend
+- 🌱 Aprendiendo actualmente: React, editor de codigo NeoVim
 - 💬 Pregúntame sobre: Creacion de APIres desde Express o flask.
 - 🎯 Metas para este año: Seguir mejorando en mis conocimientios de Backend y tener una correcta implementación del Frontend con el fin de desempeñarme como Fullstack.
 
