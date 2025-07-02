@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Santiago Salazar
 
 ## 🧑‍💻 Sobre mí
-Soy un(a) desarrollador(a) apasionado(a) por la tecnología, el código limpio y el aprendizaje continuo. Me interesa especialmente:
+Soy un desarrollador apasionado por la tecnología, el código limpio y el aprendizaje continuo. Me interesa especialmente:
 
 - 🔧 Desarrollo web / backend y Frontend
 - 🌱 Aprendiendo actualmente: React, Typescript y MCPs.
